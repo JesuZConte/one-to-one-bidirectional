@@ -7,15 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="445d3557-2de3-4d5e-b1c6-554918bb247d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/luv2code/hibernate/demo/DeleteStudentDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/luv2code/hibernate/demo/PrimaryKeyDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/luv2code/hibernate/demo/QueryStudentDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/luv2code/hibernate/demo/ReadStudentDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/luv2code/hibernate/demo/UpdateStudentDemo.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/hibernate-tutorial/com/luv2code/jdbc/TestJdbc.class" afterPath="$PROJECT_DIR$/out/production/hibernate-tutorial/com/luv2code/jdbc/TestJdbc.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/luv2code/jdbc/TestJdbc.java" afterPath="$PROJECT_DIR$/src/com/luv2code/jdbc/TestJdbc.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/src/hibernate.cfg.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -497,12 +489,12 @@
       <workItem from="1563381252556" duration="2294000" />
       <workItem from="1563388845037" duration="11336000" />
       <workItem from="1563557261932" duration="17000" />
-      <workItem from="1563557347912" duration="657000" />
+      <workItem from="1563557347912" duration="779000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14304000" />
+    <option name="totallyTimeSpent" value="14426000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="58" y="23" width="1382" height="797" extended-state="0" />
