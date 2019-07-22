@@ -32,7 +32,8 @@ public class InstructorDetail {
     // add new field for instructor (also add getter/setters)
     // add @OneToOne annotation, this is not a column in the database, its purpose is to create a relation between the two objects
 
-    @OneToOne(mappedBy = "instructorDetail", cascade = CascadeType.ALL)
+    @OneToOne(mappedBy = "instructorDetail",
+            cascade = {CascadeType.DETACH, CascadeType.MERGE, CascadeType.PERSIST, CascadeType.REFRESH})
     private Instructor instructor;
 
     public InstructorDetail() {
